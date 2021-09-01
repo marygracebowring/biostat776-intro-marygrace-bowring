@@ -1,9 +1,7 @@
 name: "my-website"
 navbar:
-  title: "My website"
-  left:
-    - text: "Home"
-      href: index.html
+  title: "Mary Grace's Biostat 776 website"
+ 
 output:
   html_document:
     theme: flatly
