@@ -1,2 +1,3 @@
-# biostat776-intro-marygrace-bowring
-This is the repository for Mary Grace Bowring in Biostat 776.
+# Introducing myself
+
+This website contains a short introduction for Mary Grace Bowring with additional information on background, training, and research interests.
