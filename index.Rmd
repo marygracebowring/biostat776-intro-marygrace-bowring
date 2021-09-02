@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ---
 title: "biostat776-intro-Mary Grace-Bowring"
 ---
