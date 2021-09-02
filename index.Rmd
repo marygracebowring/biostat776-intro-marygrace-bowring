@@ -14,7 +14,7 @@ Last updated: `r format(Sys.time(), '%d %B, %Y')`
 ### Background
 I am a non-traditional MD-PhD student starting a PhD in biomedical engineering this Fall. I graduated from college in 2012 having studied mathematics, education, and art. I completed an MPH in Epidemiology in DC in 2015 and worked as a research data analyst in Baltimore from 2015-2019 studying the epidemiology of solid organ transplantation. 
 
-I am a married (wild I know) homeowner (even wilder), and we have one dog and two cats. Outside of medicine and research, I love to paint, try new recipes, be outdoors, and smother my pets with affection whether they want it or not. 
+I live with my husband in Baltimore with our dog and two cats. Outside of medicine and research, I love to paint, try new recipes, be outdoors, and smother my pets with affection whether they want it or not. 
 
 This is Neville. He is extremely dramatic.
 
